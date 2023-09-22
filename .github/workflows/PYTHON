@@ -1,1 +1,18 @@
+"SUMA DE DOS NUMEROS"
+
+num1 = float(input("Introduce el primer número: "))
+num2 = float(input("Introduce el segundo número: "))
+
+suma = num1 + num2
+
+print("La suma de los dos números es:", suma)
+
+
+("RESTA DE DOS NUMEROS")
+
+num1 = 5
+num2 = 3
+resta = num1 - num2
+print("El resultado de la resta es:", resta)
+
 
